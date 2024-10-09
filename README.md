@@ -8,7 +8,7 @@ Hi, I'm Olya! I'm a software engineer who is passionate about making open-source
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Jest](https://img.shields.io/badge/-Jest-333333%3F?style=flat&logo=jest))
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Vite](https://img.shields.io/badge/-Vite?style=flat&logo=Vite&label=Vite&labelColor=333333&color=333333)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
